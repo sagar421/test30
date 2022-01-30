@@ -1,0 +1,155 @@
+/ rot directory
+~ sudo user:root folder
+auto filed space+tab
+ssh secure shell
+ls list of files
+clear
+CLI commond line interface
+pwd:present working directory
+mkdirsai
+cd sai
+echo :argument as output
+Hi linux
+echo x=100;
+echo $x
+100
+ls
+ls -a hiden directory
+ls -s sorting
+ls -lt lost modified time
+cd ~ change home directory
+cd /root directory
+Cd .. two directories back
+cat :concatination
+Cat file1.txt
+Hi 
+cat file2.txt
+Hello
+cat fil1.txt>>cat file2.txt
+catfile1 .txt data moved to cat file2.txt
+cat -b:non blank lines
+cat file1.txt
+Hi 
+hello
+
+test
+cat -b file1.txt
+hi
+hello
+test
+
+cat -n file1.txt
+1.hi
+2.hello
+3.test
+
+cat -s file1.txt
+grep:
+search perticular string /word in a file
+
+cat>>file4.txt
+sagar
+sai
+nara
+singu
+cntrl+d
+$grep sa file4.txt
+$grep -i sa file4.txt  case insensitive
+$grep -n sa file4.txt "numbering
+grep -c count match lines
+grep -v file4.txt show all lines that do not match string
+sort:
+Cler screen cntrl+l
+$vi
+insert
+Hi sai
+sagar
+namastay
+Ecs+wq!
+sort -r reverse sort
+sort -n sort by numerically
+sort -f case insensitive
+PIPE:
+Commond 1 op is cmnd 2 ip
+$grep am file1.txt / sort -r
+
+Compress /Decompress
+C-Compress
+X-decompress
+tar file convert to Zip file after extract
+c compressed
+v volume
+f file
+tar cvf back.tar file1.txt/file /folder1 :decopressed file1.txt in folder 1
+tar xvf back.tar after decompressed the file
+CP :copy used files and folders 
+copy the files
+ls
+file1 file2
+cp file1.txt desktop
+folder=directory
+Cp -i (over ride)
+cp -vr verbose    sep by step execution
+
+MV : CUT file
+mv -i
+mv -u
+mv -v
+-------------------
+
+
+ls
+mkdir folder1
+
+howto reate sub folder
+cd folder1
+mkdir {folder2,folder3}
+folder 2:folder4,folder 5
+folder$-pf2/{folder 4,folder5}
+
+
+
+rm/rm dir:
+mkdir folder 10
+cd folder 10
+rm dir folder 10
+mkdir folder 20
+cd folder 20
+mkdir {folder 22,folder 23}
+cd folder 22
+rm -r folder20
+rm -rv folder 20
+user permitions:
+file directory  user  group  other  symbollinks owner name groupname file size time stamp
+
+d              rwx     rwx    rwx      2         edureka    edureka   5242      20:12:2022:01:00:00 
+
+
+
+How to connect aws to linux
+Goto aws 
+login
+lunch linuxec2 server details
+pem file saved in the local system pem
+download putty key generator save the key ppk
+putty 
+host name
+ssh auth
+load ppk file
+saved
+linux comd promt open
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
