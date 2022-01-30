@@ -1,0 +1,33 @@
+Jenkins:
+aws>> linux
+
+verify java available if not install java
+java sudo su-
+yum install java  -1.0.8 open jdk -devel
+altrnative config -- config java
+yum install jenkins -y
+system status jenkins
+Launch the aws server 
+copy ip address paste browser :8080
+displaying unlock pws
+copy pws and goto aws server aws cmd promt 
+cat unlock pws 
+
+created jobs :
+new item>>job name
+build>>run the job execute the result console
+
+Add plugins:
+dash board>>Manage jenkins>>sysconfg>>manage plugins
+
+How to add users
+Dashboard>>manage jenkins>>manage users>>create users
+
+How to Assign roles to users and how asign role comes under MANAGE USER 
+Dashboard>>manage jenkins>>Config global security>>select role based secrity>>
+goto jenkins>>manage jenkins>>manage users and Access role 
+
+how to give permisions  project based matrix 
+Dashboard>>Manage jenkins>>Config global security>>Authorization>>matrix and project based 
+
+
