@@ -1,3 +1,132 @@
 POSTMEN
-AWS CLOUD
-SIMPLLEARN/62752
+GET
+PUT
+POST
+DELETE
+PATCH
+https://github.com/sagar421/test30/edit/postman-tool/postman%20tool
+https://github.com-Domain
+agar421/test30/edit/postman-tool/postman-Path
+%20tool-Query
+200-success
+201-created
+404-not found
+204-delete
+500-internal server error
+work space>>collections>>create collections>>new collections/new request
+Request :
+responce:
+Data driven testing using Postman tool:
+
+work space>>collections>>create collections>>new collections/new request
+Variables are in two types
+Local and global 
+Local variables:It is used the particular request and select environment
+
+must prvide VARIABLE INTIAL  CURRENT VALUE DISCRPTION
+Intial vaue shared any member
+Current value shared with in the team
+
+Global :We are used any place collection request
+work space not required the environment
+POSTMAN USING CMD PROMPT:
+install node.js
+automatically install node/npm
+node -v
+npm -v
+
+install newman plugin
+npm install -g newman
+
+Run newman on collection file
+newman run "collectionfilename.json"
+HTML report:
+Install :
+npm install -g newman -reporter -ht,l
+newman run "collectionfilename.json" -r -html
+
+
+Note:Collectionas are executed cmd line ,in the environment variables loal/global we must give intiall and current value
+
+ CLOUDComputing:SIMPLLEARN
+ 
+ Types of services:
+ IAAS:INfrastructure as a service
+ SAAS:Software as a service
+ PAAS:Plat form as a service
+ Types of cloud computing:
+ Public
+ private 
+ Hybrid
+ 
+ IAAS:
+ VMS/STORAGES/SERVERS
+ PAAS:
+ Buils/deployment/testing
+ SAAS:
+ Email/skype
+ 
+ IAAS:                                PASS:                                SAAS:
+ It infrastructure                     Development application            Principal model:pay as you go
+ flexi cloud services                  work diff teams                    payment service
+ user manage data/OS                   user manage app/data               Req cloud providrs
+ Providing configure managment H/W
+ Request more users                     Req less users
+ 
+ IAAS:                                       PAAS:                                                     SAAS:
+ SELF:
+ APPLICATION/DATA/RUNTIME/MIDDLEWARE/OS       SELF: APPLICATION/DATA                                   VENDOR: APPLICATION/DATA/RUNTIME/MIDDLEWARE/OS/VM/STORAGE/SERVICE/N/W
+Vendor:                                       VENDOR:RUNTIME/MIDDLEWARE/OS/ VM/STORAGE/SERVICE/N/W
+ VM/STORAGE/SERVICE/N/W
+ 
+ CLOUD MIGRATION:
+ IAAS:REHOST
+ PASS:REFACTION/REVICE
+ SAAS:REPLACE
+ 
+ DATA BACK:STORAGE DATA
+ DATA REPLICATION:MOVE FILE ONE LOCAION TO ANOTHER LOCATION
+ RESILIENCY:DOWNTIME
+ 
+ COPEX(Capital expendature):  OPEX(OPERATIONAL EXPENDATURE)
+ Service cost                  PAY AS YOU GO/ONDEMAND SCALABILITY/ADDTIONAL STORAGE/DAILY OPERATIONAL COST
+ storage cost
+ nw cost
+ backup
+ data structure
+ infra structure
+ org continuty
+ Cloud services:     Cloud providers:
+ Compute             AWS/AZURE/GCP/ALIBABA
+ storage
+ db
+ nw
+ maage/monitor
+ 
+ CLOUD SERVICES             AWS          AZURE
+ C                         EC2/LAMDA      VMS
+ S                         S3            AZURE DB
+ DB                        DYNAMO DB    SQL DB
+ NW                         VPC           VPN
+ M/m                     Application API    Authorization
+ 
+ RTO-RECOVERY POINT TIME
+ HR-HIGH AVAILABILITY
+ DR-DISATER RECOVERY
+ SLA-SERVICE LEVEL AGGREMENT
+ 
+ 62752:
+ 
+AWS CONNECT:
+IVR:INTERACTIVE VOICE RESPONCE
+NLU:NATURAL LANGUAGE UNDERSTAND
+DMTF:DUAL TONE MULTY FREQUENCE
+CLI:CALLING LINE IDENIFICATION
+CCP:CONTARCT CONTROL PANEL-SOFTPHONE
+CTR:CONTARCT TRACE RECORD
+DID:DIRECT IP DAILING
+CI:CONVERSATIONAL INTERFACE
+ASR:AUTOMATIC SPEACH RECOGINATIONACW:AFTER CALL WORK
+
+
+
